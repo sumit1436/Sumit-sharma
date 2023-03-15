@@ -1,4 +1,4 @@
-![logo](https://github.com/sumit1436/sumit1436/blob/main/pexels-picography-3129.jpg)
+![logo](https://github.com/sumitsharma1436/sumitsharma1436/blob/main/Portfolio-5.jpg)
 # Sumit-sharma
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
